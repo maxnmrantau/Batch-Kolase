@@ -1,0 +1,7 @@
+{
+  "name": "Batch Auto-Collage Pro",
+  "description": "Aplikasi kolase foto batch cerdas untuk membuat tata letak otomatis yang indah dari penyimpanan lokal Anda.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
